@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lconirous.github.io/sitemap.html.gz
+Sitemap: https://lconirous.github.io/app/sitemap.html.gz
+Sitemap: https://lconirous.github.io/assets/sitemap.html.gz
+Sitemap: https://lconirous.github.io/css/sitemap.html.gz
+Sitemap: https://lconirous.github.io/includes/sitemap.html.gz
+Sitemap: https://lconirous.github.io/item/sitemap.html.gz
+Sitemap: https://lconirous.github.io/src/sitemap.html.gz
